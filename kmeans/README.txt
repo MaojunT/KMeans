@@ -1,0 +1,2 @@
+This program is implemented in C++ with codeblocks, to execute
+enter compile the code first and enter ./KMeans k where k is the k value and this program will process the input.txt within the same file.
